@@ -15,7 +15,7 @@
     "autoprefixer": "^10.4.0",
     "swiper": "^12.1.2",
     "tailwindcss": "^2.2.19",
-    "vite": "^2.9.18"
+    "vite": "^5.4.21"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.1.3",
