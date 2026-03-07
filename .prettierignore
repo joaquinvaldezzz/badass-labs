@@ -1,5 +1,9 @@
-.DS_Store
 *.local
+
+.DS_Store
+
 dist-ssr
 dist/assets
 node_modules
+
+pnpm-lock.yaml
